@@ -1,0 +1,1 @@
+python predict.py 7 $1 $2
