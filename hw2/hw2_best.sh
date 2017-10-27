@@ -1,0 +1,1 @@
+python XGBoost.py --train_data_path $3 --train_label_path $4 --test_data_path $5 --submission_data_path $6
