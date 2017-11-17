@@ -1,0 +1,1 @@
+python3 cnn_test_mod.py --model1 model_1.h5 --model4 model_2.h5 --specific 0_2_4_6 --submission_data_path $2 --test_data_path $1
